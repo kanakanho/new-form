@@ -28,3 +28,7 @@ dist-ssr
 
 # test
 coverage/
+
+# ignore zzz
+*/zzz/*
+zzz.*
